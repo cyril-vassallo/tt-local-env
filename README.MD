@@ -1,8 +1,8 @@
 # Requirement to start TaskiTeam projects on your local machine.
 
 ## Pull all those repositories in a same folder named **TaskiTeam**.
-    git clone https://github.com/taskiteam/tt-local-env
-    git clone https://github.com/taskiteam/tt-api-nest
+    git clone https://github.com/cyril-vassallo/tt-local-env
+    git clone https://github.com/cyril-vassallo/tt-api-nest
     git clone https://github.com/cyril-vassallo/tt-app-next
     git clone https://github.com/cyril-vassallo/tt-app-angular
 
