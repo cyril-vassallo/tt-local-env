@@ -115,7 +115,7 @@ Now, depend if you want the app start on Angular, Next.js or both, execute one o
 The present **tt-local-env** directory is a simple repository containing a script to daily auto run projects using makefile, VsCode and Docker.
 
 Depends of the command line you choose, it should open multiple VsCode windows with different colors and run inside each VsCode terminal the appropriate container running logs.
-- Anglular (Red)
+- Angular (Red)
 - Next (Blue)
 - Nest / Mongo (Green)
 
