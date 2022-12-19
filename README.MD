@@ -58,7 +58,11 @@ Copy .env.local into .env for folders:
 You will probably need to create an empty mongodb named **taskiteam** to properly run the application. For instance no data are provided or reset by migration when installing
 
 
+## Start project:
+ Next in each porject root folder you can use de commande docker-compse up to start container.
+
 //TODO set a starting set off data.
+
 
 # Project daily auto start.
 
