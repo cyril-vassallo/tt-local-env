@@ -1,4 +1,4 @@
-# Requirement to start TaskiTeam projects on your local machine.
+# Documentation to start TaskiTeam projects on your local machine.
 
 ## Pull all those repositories in a same folder named **TaskiTeam**.
     git clone https://github.com/cyril-vassallo/tt-local-env
