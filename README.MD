@@ -61,7 +61,7 @@ You will probably need to create an empty mongodb named **taskiteam** to properl
 
 
 ## Start project:
- Next in each porject root folder you can use de commande docker-compse up to start container.
+ Next in each porject root folder you can use de commande **docker-compse up** to start container.
  
  Then go to - Angular front: *http://localhost:4200* and create your first user.
 
