@@ -57,11 +57,14 @@ Copy .env.local into .env for folders:
 ## Db configuration:
 You will probably need to create an empty mongodb named **taskiteam** to properly run the application. For instance no data are provided or reset by migration when installing
 
+//TODO set a starting set off data.
+
 
 ## Start project:
  Next in each porject root folder you can use de commande docker-compse up to start container.
+ 
+ Then go to - Angular front: *http://localhost:4200* and create your first user.
 
-//TODO set a starting set off data.
 
 
 # Project daily auto start.
