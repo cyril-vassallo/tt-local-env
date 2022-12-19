@@ -63,7 +63,7 @@ You will probably need to create an empty mongodb named **taskiteam** to properl
 ## Applications are exposed on:
 - Nest api: *http://localhost:8080*
 - Angular front: *http://localhost:4200*
-- Next front: *http://localhost:3000* (can start but accutaly in construction) 
+- Next front: *http://localhost:3000* (can start but in construction) 
 
 - MongoDb: *mongodb://localhost:27017* (connection string)
 
