@@ -44,15 +44,6 @@ Copy .env.local into .env for folders:
 ## Install MongoDB Compass (Or use MongoDB for VS Code Plugin).
 - https://www.mongodb.com/products/compass 
 
-<br>
-
-# Information
-
-## Applications are exposed on:
-- Nest api: *http://localhost:8080*
-- Next front: *http://localhost:3000*
-- Angular front: *http://localhost:4200*
-- MongoDb: *mongodb://localhost:27017* (connection string)
 
 ## Db configuration:
 You will probably need to create an empty mongodb named **taskiteam** to properly run the application. For instance no data are provided or reset by migration when installing
@@ -64,6 +55,17 @@ You will probably need to create an empty mongodb named **taskiteam** to properl
  Next in each porject root folder you can use de commande **docker-compse up** to start container.
  
  Then go to - Angular front: *http://localhost:4200* and create your first user.
+
+<br>
+
+# Information
+
+## Applications are exposed on:
+- Nest api: *http://localhost:8080*
+- Next front: *http://localhost:3000*
+- Angular front: *http://localhost:4200*
+- MongoDb: *mongodb://localhost:27017* (connection string)
+
 
 
 
